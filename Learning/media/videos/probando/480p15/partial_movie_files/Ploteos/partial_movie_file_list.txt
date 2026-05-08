@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/Fede/Programación/Manim 3B1B/media/videos/probando/480p15/partial_movie_files/Ploteos/1185818338_534492094_223132457.mp4'
+file 'file:E:/Fede/Programación/Manim 3B1B/media/videos/probando/480p15/partial_movie_files/Ploteos/624642324_3558289499_3315176454.mp4'
+file 'file:E:/Fede/Programación/Manim 3B1B/media/videos/probando/480p15/partial_movie_files/Ploteos/624642324_1704852926_860326983.mp4'

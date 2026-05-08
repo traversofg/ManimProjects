@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/Fede/Programación/Manim 3B1B/media/videos/text/720p30/partial_movie_files/LetterByLetter/2016333726_3110723009_223132457.mp4'
+file 'file:E:/Fede/Programación/Manim 3B1B/media/videos/text/720p30/partial_movie_files/LetterByLetter/543634251_618481248_2430079108.mp4'
+file 'file:E:/Fede/Programación/Manim 3B1B/media/videos/text/720p30/partial_movie_files/LetterByLetter/543634251_1704852926_1627720992.mp4'
+file 'file:E:/Fede/Programación/Manim 3B1B/media/videos/text/720p30/partial_movie_files/LetterByLetter/543634251_2936786170_2853756897.mp4'
+file 'file:E:/Fede/Programación/Manim 3B1B/media/videos/text/720p30/partial_movie_files/LetterByLetter/543634251_4155534424_2679229394.mp4'
+file 'file:E:/Fede/Programación/Manim 3B1B/media/videos/text/720p30/partial_movie_files/LetterByLetter/543634251_2475379470_1116042904.mp4'

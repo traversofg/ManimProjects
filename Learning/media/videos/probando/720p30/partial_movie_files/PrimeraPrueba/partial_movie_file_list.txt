@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/Fede/Programación/Manim 3B1B/media/videos/probando/720p30/partial_movie_files/PrimeraPrueba/2016333726_3030278940_223132457.mp4'
+file 'file:E:/Fede/Programación/Manim 3B1B/media/videos/probando/720p30/partial_movie_files/PrimeraPrueba/543634251_1704852926_770407288.mp4'
+file 'file:E:/Fede/Programación/Manim 3B1B/media/videos/probando/720p30/partial_movie_files/PrimeraPrueba/543634251_2068159101_1389133484.mp4'
+file 'file:E:/Fede/Programación/Manim 3B1B/media/videos/probando/720p30/partial_movie_files/PrimeraPrueba/543634251_3028974672_2385177946.mp4'
+file 'file:E:/Fede/Programación/Manim 3B1B/media/videos/probando/720p30/partial_movie_files/PrimeraPrueba/543634251_1141282389_469596847.mp4'
